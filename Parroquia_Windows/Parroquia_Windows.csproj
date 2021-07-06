@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D26E352F-BF3C-46A5-A91C-13D1D5E3D924}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Parroquia_Windows</RootNamespace>
+    <AssemblyName>Parroquia_Windows</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.Principal.Windows, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcercaDe.Designer.cs">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente\BuscarBautismoA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente\BuscarBautismoA.Designer.cs">
+      <DependentUpon>BuscarBautismoA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente\BuscarDefuncionA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente\BuscarDefuncionA.Designer.cs">
+      <DependentUpon>BuscarDefuncionA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente\FormPrincipalA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente\FormPrincipalA.designer.cs">
+      <DependentUpon>FormPrincipalA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FormPrincipal.designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FormModulosAdminFir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FormModulosAdminFir.designer.cs">
+      <DependentUpon>FormModulosAdminFir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FormAdminUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FormAdminUsuarios.designer.cs">
+      <DependentUpon>FormAdminUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FormFirmantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FormFirmantes.designer.cs">
+      <DependentUpon>FormFirmantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente\Modulo_BautismoA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente\Modulo_BautismoA.designer.cs">
+      <DependentUpon>Modulo_BautismoA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente\Modulo_ConfirmacionA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente\Modulo_ConfirmacionA.designer.cs">
+      <DependentUpon>Modulo_ConfirmacionA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente\Modulo_DefuncionA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente\Modulo_DefuncionA.designer.cs">
+      <DependentUpon>Modulo_DefuncionA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente\Modulo_MatrimonioA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente\Modulo_MatrimonioA.designer.cs">
+      <DependentUpon>Modulo_MatrimonioA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente\RegistrosConfirmacionA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente\RegistrosConfirmacionA.designer.cs">
+      <DependentUpon>RegistrosConfirmacionA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente\RegistrosMatrimonioA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente\RegistrosMatrimonioA.designer.cs">
+      <DependentUpon>RegistrosMatrimonioA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarBautismo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarBautismo.Designer.cs">
+      <DependentUpon>BuscarBautismo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarDefuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarDefuncion.Designer.cs">
+      <DependentUpon>BuscarDefuncion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo_Bautismo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo_Bautismo.designer.cs">
+      <DependentUpon>Modulo_Bautismo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo_Confirmacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo_Confirmacion.designer.cs">
+      <DependentUpon>Modulo_Confirmacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo_Defuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo_Defuncion.designer.cs">
+      <DependentUpon>Modulo_Defuncion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo_Matrimonio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo_Matrimonio.designer.cs">
+      <DependentUpon>Modulo_Matrimonio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Prueba.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Prueba.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RegistrosConfirmacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrosConfirmacion.designer.cs">
+      <DependentUpon>RegistrosConfirmacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrosMatrimonio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrosMatrimonio.designer.cs">
+      <DependentUpon>RegistrosMatrimonio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ExampleReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExampleReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteBautismo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteBautismo.Designer.cs">
+      <DependentUpon>ReporteBautismo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteDefuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteDefuncion.Designer.cs">
+      <DependentUpon>ReporteDefuncion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteConfirmacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteConfirmacion.Designer.cs">
+      <DependentUpon>ReporteConfirmacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteMatrimonio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteMatrimonio.Designer.cs">
+      <DependentUpon>ReporteMatrimonio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="AcercaDe.resx">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente\BuscarBautismoA.resx">
+      <DependentUpon>BuscarBautismoA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente\BuscarDefuncionA.resx">
+      <DependentUpon>BuscarDefuncionA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente\FormPrincipalA.resx">
+      <DependentUpon>FormPrincipalA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FormModulosAdminFir.resx">
+      <DependentUpon>FormModulosAdminFir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FormAdminUsuarios.resx">
+      <DependentUpon>FormAdminUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FormFirmantes.resx">
+      <DependentUpon>FormFirmantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente\Modulo_BautismoA.resx">
+      <DependentUpon>Modulo_BautismoA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente\Modulo_ConfirmacionA.resx">
+      <DependentUpon>Modulo_ConfirmacionA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente\Modulo_DefuncionA.resx">
+      <DependentUpon>Modulo_DefuncionA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente\Modulo_MatrimonioA.resx">
+      <DependentUpon>Modulo_MatrimonioA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente\RegistrosConfirmacionA.resx">
+      <DependentUpon>RegistrosConfirmacionA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente\RegistrosMatrimonioA.resx">
+      <DependentUpon>RegistrosMatrimonioA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarBautismo.resx">
+      <DependentUpon>BuscarBautismo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarDefuncion.resx">
+      <DependentUpon>BuscarDefuncion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo_Bautismo.resx">
+      <DependentUpon>Modulo_Bautismo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo_Confirmacion.resx">
+      <DependentUpon>Modulo_Confirmacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo_Defuncion.resx">
+      <DependentUpon>Modulo_Defuncion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo_Matrimonio.resx">
+      <DependentUpon>Modulo_Matrimonio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Prueba.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Prueba.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrosConfirmacion.resx">
+      <DependentUpon>RegistrosConfirmacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrosMatrimonio.resx">
+      <DependentUpon>RegistrosMatrimonio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteBautismo.rdlc" />
+    <EmbeddedResource Include="ReporteDefuncion.rdlc" />
+    <EmbeddedResource Include="ReporteConfirmacion.rdlc" />
+    <EmbeddedResource Include="ReporteMatrimonio.rdlc" />
+    <EmbeddedResource Include="Reportes\ExampleReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ExampleReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteBautismo.resx">
+      <DependentUpon>ReporteBautismo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteDefuncion.resx">
+      <DependentUpon>ReporteDefuncion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteConfirmacion.resx">
+      <DependentUpon>ReporteConfirmacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteMatrimonio.resx">
+      <DependentUpon>ReporteMatrimonio.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Parroquia.Entidades.ReporteBautismo_E.datasource" />
+    <None Include="Properties\DataSources\Parroquia.Entidades.ReporteConfirmacion_E.datasource" />
+    <None Include="Properties\DataSources\Parroquia.Entidades.ReporteDefuncion_E.datasource" />
+    <None Include="Properties\DataSources\Parroquia.Entidades.ReporteMatrimonio_E.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Parroquia.Entidades\Parroquia.Entidades.csproj">
+      <Project>{789e4dc6-7bc5-484d-8574-25772fb03cfb}</Project>
+      <Name>Parroquia.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Parroquia.Negocio\Parroquia.Negocio.csproj">
+      <Project>{1782d3f0-0f7a-4985-a9d9-9ec0a758a4f2}</Project>
+      <Name>Parroquia.Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

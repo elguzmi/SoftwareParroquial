@@ -1,0 +1,216 @@
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Negocio.dll
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Negocio.pdb
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Datos.dll
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Entidades.dll
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Datos.pdb
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Entidades.pdb
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csprojAssemblyReference.cache
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csproj.CopyComplete
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.dll
+C:\Users\santi\Documents\SOFTWARES- independientes\SoftwarePadreJoel\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.pdb
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Negocio.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Negocio.pdb
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Datos.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Entidades.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\EnvDTE.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\stdole.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Datos.pdb
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Entidades.pdb
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csproj.CopyComplete
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.dll
+C:\Users\santi\Desktop\Software_escritorio\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.pdb
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Negocio.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Negocio.pdb
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Datos.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Entidades.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\EnvDTE.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\stdole.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Datos.pdb
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Entidades.pdb
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csproj.CopyComplete
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.dll
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.pdb
+C:\Users\santi\Desktop\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csproj.CoreCompileInputs.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Negocio.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Negocio.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Datos.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Entidades.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\EnvDTE.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\stdole.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Microsoft.MSXML.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Datos.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\Parroquia.Entidades.pdb
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csprojAssemblyReference.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csproj.CoreCompileInputs.cache
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.csproj.CopyComplete
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.dll
+D:\Usuario_Santi\Documents\SOFTWARES- independientes\Software Parroquial\Software_Parroquial\Parroquia_Jesus\Parroquia.Negocio\obj\Debug\Parroquia.Negocio.pdb
